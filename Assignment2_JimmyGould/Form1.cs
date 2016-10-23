@@ -34,6 +34,7 @@ namespace Assignment2_JimmyGould
             lblName.Text = "";
         }
 
+        //I am adding commets to see if this works ;lkasdjf;lawjf;lawkjewl;aejf
         //Hides images
         private void btnHide_Click(object sender, EventArgs e)
         {

@@ -7,3 +7,6 @@ c:\users\jimmy\documents\visual studio 2015\Projects\Assignment2_JimmyGould\Assi
 c:\users\jimmy\documents\visual studio 2015\Projects\Assignment2_JimmyGould\Assignment2_JimmyGould\obj\Debug\Assignment2_JimmyGould.csproj.GenerateResource.Cache
 c:\users\jimmy\documents\visual studio 2015\Projects\Assignment2_JimmyGould\Assignment2_JimmyGould\obj\Debug\Assignment2_JimmyGould.exe
 c:\users\jimmy\documents\visual studio 2015\Projects\Assignment2_JimmyGould\Assignment2_JimmyGould\obj\Debug\Assignment2_JimmyGould.pdb
+C:\Users\Jimmy\Documents\C#\Assignment2_JimmyGould\Assignment2_JimmyGould\bin\Debug\Assignment2_JimmyGould.exe.config
+C:\Users\Jimmy\Documents\C#\Assignment2_JimmyGould\Assignment2_JimmyGould\obj\Debug\Assignment2_JimmyGould.exe
+C:\Users\Jimmy\Documents\C#\Assignment2_JimmyGould\Assignment2_JimmyGould\obj\Debug\Assignment2_JimmyGould.pdb
