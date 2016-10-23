@@ -35,6 +35,7 @@ namespace Assignment2_JimmyGould
         }
 
         //I am adding commets to see if this works ;lkasdjf;lawjf;lawkjewl;aejf
+        //asd;lkfja;wjfa;lsdjf;alk
         //Hides images
         private void btnHide_Click(object sender, EventArgs e)
         {
@@ -42,6 +43,9 @@ namespace Assignment2_JimmyGould
             picHulk.Visible = false;
             picIronMan.Visible = false;
             picSpiderman.Visible = false;
+
+            //asdl;kfjasd;lfjiawen;zljse;roiajwe;ofja;lksejralkja
+
         }
 
         //shows images
